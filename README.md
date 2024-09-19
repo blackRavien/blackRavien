@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @blackRavien
+- 👋 Hi, I’m @blackRavien aka Mert.
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning ASP.NET Core and Architectural Sowtware Development
 - 💞️ I’m looking to collaborate with collaborative co workers in a Software company.
